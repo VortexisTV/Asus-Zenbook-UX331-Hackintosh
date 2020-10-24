@@ -3,3 +3,5 @@
 Intel Wi-Fi (HeliPort), Bluetooth, Brightness, Apple Services, Keyboard, Trackpad (not fully working), Graphics, Sleep
 # Everything that doesn't work yet
 Audio, Ethernet, Backlit Keys
+
+More changes are coming soon to the config.plist.
