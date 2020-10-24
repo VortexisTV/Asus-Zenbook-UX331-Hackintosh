@@ -175,7 +175,7 @@
 			<key>ResetHDA</key>
 			<true/>
 			<key>Inject</key>
-			<string>No</string>
+			<integer>21</integer>
 		</dict>
 		<key>UseIntelHDMI</key>
 		<false/>
