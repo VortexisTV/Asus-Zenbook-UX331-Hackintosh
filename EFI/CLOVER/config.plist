@@ -192,11 +192,11 @@
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
 				<key>model</key>
-				<string>Iris Plus Graphics 655</string>
+				<string>Intel UHD Graphics 620</string>
 				<key>framebuffer-con0-alldata</key>
 				<data>AAAIAAIAAACYAAAA</data>
 				<key>device-id</key>
-				<data>pT4AAA==</data>
+				<data>mz4AAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>hda-gfx</key>
@@ -206,7 +206,7 @@
 				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>CQClPg==</data>
+				<data>AACbPg==</data>
 				<key>framebuffer-con1-alldata</key>
 				<data>AQEJAAAIAADHAQAA</data>
 				<key>framebuffer-con2-enable</key>
