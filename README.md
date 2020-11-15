@@ -14,6 +14,7 @@ As of now, works with Mojave and Catalina. *Big Sur will be added soon.*
 Intel Wi-Fi (HeliPort)  
 Bluetooth  
 Audio  
+Power Management
 Internal Microphone  
 Brightness  
 Keyboard  
