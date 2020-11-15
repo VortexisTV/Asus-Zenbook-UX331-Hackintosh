@@ -1,7 +1,10 @@
-# Clover EFI designed to work with ASUS Zenbook UX331 (Whiskey Lake) (WIP)
-May also work with Zenbook models under UX330.
+# ASUS Zenbook UX331 Clover EFI Hackintosh built
 
-## Software Compatibilty
+## Hardware Compatibility
+Clover may also work with Zenbook models under UX333.  
+Specifically geared towards Zenbooks with Coffee Lake laptop processors.
+
+## Software Compatibility
 As of now, works with Mojave and Catalina. *Big Sur will be added soon.*
 
 ### OpenCore Support
