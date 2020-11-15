@@ -4,7 +4,7 @@ May also work with Zenbook models under UX330.
 ## Software Compatibilty
 As of now, works with Mojave and Catalina. *Big Sur will be added soon.*
 
-###### OpenCore Support
+### OpenCore Support
 **Coming very soon.**
 
 ## Everything that works perfectly at the moment
