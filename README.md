@@ -9,12 +9,13 @@ Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 As of now, works with Mojave and Catalina. *Big Sur will be added soon.*
 
 ### OpenCore Support
-Added, but with no trackpad and Fn keys working at the moment.
+Added, but trackpad, Fn keys, and battery monitoring are not working yet.
 
 ## Everything that works perfectly at the moment
 Intel Wi-Fi (HeliPort)  
 Bluetooth  
 Audio  
+Battery Monitoring  
 Power Management  
 Internal Microphone  
 Brightness  
