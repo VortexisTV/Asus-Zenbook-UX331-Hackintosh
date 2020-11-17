@@ -1,4 +1,4 @@
-# ASUS Zenbook UX331 Clover EFI Hackintosh
+# ASUS Zenbook UX331 Clover/OpenCore EFI Hackintosh
 ![](images/AboutthisMac.png)
 
 ## Hardware Compatibility
