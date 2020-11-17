@@ -9,7 +9,7 @@ Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 As of now, works with Mojave and Catalina. *Big Sur will be added soon.*
 
 ### OpenCore Support
-**Coming very soon.**
+Added, but with no trackpad and Fn keys working at the moment.
 
 ## Everything that works perfectly at the moment
 Intel Wi-Fi (HeliPort)  
