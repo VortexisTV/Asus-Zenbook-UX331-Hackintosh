@@ -11,7 +11,7 @@ As of now, works with Mojave and Catalina. *Big Sur will be added soon.*
 ### OpenCore Support (buggy)
 Added, but trackpad, and Fn keys are not working yet. At times will freeze after login.
 
-DSDT EFI Backup if the main OC folder doesn't work.
+DSDT EFI will work but without battery monitoring.
 
 ## Everything that works perfectly at the moment
 Intel Wi-Fi (HeliPort)  
