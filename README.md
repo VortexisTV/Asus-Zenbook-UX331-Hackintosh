@@ -2,7 +2,7 @@
 ![](images/AboutthisMac.png)
 
 ## Hardware Compatibility
-Clover may also work with Zenbook models under UX333.  
+Clover and OpenCore might work with Zenbook models under UX333, but it's not recommended.
 Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 
 ## Software Compatibility
