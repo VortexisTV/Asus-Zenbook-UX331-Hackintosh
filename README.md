@@ -8,8 +8,10 @@ Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 ## Software Compatibility
 As of now, works with Mojave and Catalina. *Big Sur will be added soon.*
 
-### OpenCore Support
-Added, but trackpad, Fn keys, and battery monitoring are not working yet.
+### OpenCore Support (buggy)
+Added, but trackpad, and Fn keys are not working yet. At times will freeze after login.
+
+DSDT EFI Backup if the main OC folder doesn't work.
 
 ## Everything that works perfectly at the moment
 Intel Wi-Fi (HeliPort)  
