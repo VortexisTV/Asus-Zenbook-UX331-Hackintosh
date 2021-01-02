@@ -1,7 +1,7 @@
 # ASUS Zenbook UX331 Clover/OpenCore EFI Hackintosh
 ![](images/AboutthisMac.png)
 
-## **It is strongly recommended you use OpenCore, as Clover is slowly losing support.**
+## **It is STRONGLY RECOMMENDED you use OpenCore, as Clover is slowly losing support.**
 
 ## Hardware Compatibility
 Clover and OpenCore might work with Zenbook models under UX333, but it's **not recommended.**     
