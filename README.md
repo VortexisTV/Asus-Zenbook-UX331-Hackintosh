@@ -13,7 +13,7 @@ As of now, works with Mojave and above. **Big Sur may not work for the Clover bu
 ### OpenCore Support
 Added, but trackpad is not working yet.
 
-DSDT EFI will work but without battery monitoring and Fn Keys.
+OC DSDT folder will work but without battery monitoring and Fn Keys.
 
 ## Everything that works perfectly at the moment
 Intel Wi-Fi (HeliPort)  
