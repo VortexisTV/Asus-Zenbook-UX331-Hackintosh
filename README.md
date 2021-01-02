@@ -2,14 +2,16 @@
 ![](images/AboutthisMac.png)
 
 ## Hardware Compatibility
-Clover may also work with Zenbook models under UX333.  
+Clover and OpenCore might work with Zenbook models under UX333, but it's **not recommended.**     
 Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 
 ## Software Compatibility
 As of now, works with Mojave and Catalina. *Big Sur will be added soon.*
 
-### OpenCore Support
-Added, but trackpad, Fn keys, and battery monitoring are not working yet.
+### OpenCore Support (buggy)
+Added, but trackpad, and Fn keys are not working yet. At times will freeze after login.
+
+DSDT EFI will work but without battery monitoring.
 
 ## Everything that works perfectly at the moment
 Intel Wi-Fi (HeliPort)  
