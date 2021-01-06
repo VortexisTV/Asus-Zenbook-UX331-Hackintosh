@@ -34,7 +34,7 @@ As of **January 5, 2021**, it works with Mojave and above. Currently updated to 
 | Graphics Acceleration     | `VoodooTSCSync` is required for Coffee Lake. Acceleration works well  |
 | Power Management     | `SSDT-PLUG` manages CPU power.   |
 | Keyboard     | `VoodooPS2Controller.kext`  |
-| Touchpad     | `VoodooI2C.kext`, `VoodooI2CHID.kext` and `GPIO` SSDT enable the ELAN1200 touchpad. |
+| Touchpad     | `VoodooI2C.kext`, `VoodooI2CHID.kext` and `SSDT-GPIO` enable the ELAN1200 touchpad. There is a bug where touchpad will sometimes stop working and work after a few minutes |
 | Android Tethering     | `HoRNDIS.kext` works with no issues. |
 | AirPlay     | **Doesn't work on Big Sur**  |
 
