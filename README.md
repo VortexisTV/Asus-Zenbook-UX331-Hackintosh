@@ -6,7 +6,7 @@ OpenCore EFI might work with Zenbook models under UX333, but it's **not recommen
 Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 
 ## Software Compatibility
-As of now, works with Mojave and above.
+As of January 5, 2021, it works with Mojave and above. Currently updated to OpenCore 0.6.5.
 
 ## Everything that works perfectly at the moment
 Intel Wi-Fi (HeliPort)  
