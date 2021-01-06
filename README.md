@@ -23,15 +23,14 @@ Fn Keys
 Apple Services  
 Graphics Acceleration   
 Sleep   
-AirPlay (doesn't work on Big Sur)
+AirPlay (doesn't work on Big Sur)  
 USB  
 Touchpad  
-Touchscreen
+Touchscreen  
 Backlit Keyboard
 Android Tethering (Horndis)
 
 ## Everything that doesn't work
-Ethernet
+Ethernet  
 HDMI  
 Webcam
-
