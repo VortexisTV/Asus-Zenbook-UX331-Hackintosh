@@ -10,9 +10,6 @@ Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 ## Software Compatibility
 As of now, works with Mojave and above. **Big Sur may not work for the Clover build**
 
-### OpenCore Support
-Added, but trackpad is not working yet.
-
 OC DSDT folder will work but without battery monitoring and Fn Keys.
 
 ## Everything that works perfectly at the moment
@@ -30,8 +27,6 @@ Graphics Acceleration
 Sleep   
 AirPlay  
 USB  
-
-## Everything that works, but is buggy and will sometimes stop
 Touchpad  
 Touchscreen
 
