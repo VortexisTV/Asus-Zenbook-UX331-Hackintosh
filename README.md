@@ -25,7 +25,7 @@ AirPlay (doesn't work on Big Sur)
 USB  
 Touchpad  
 Touchscreen  
-Backlit Keyboard
+Backlit Keyboard  
 Android Tethering (Horndis)
 
 ## Everything that doesn't work
