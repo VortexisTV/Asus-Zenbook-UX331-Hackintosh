@@ -1,5 +1,5 @@
 # ASUS Zenbook UX331 OpenCore EFI Hackintosh
-![](images/Zenbook.jpeg)
+![](images/Zenbook.jpg)
 ![](images/AboutthisMac.png)
 
 # Laptop Specifications
