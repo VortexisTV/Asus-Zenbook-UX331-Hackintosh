@@ -8,8 +8,6 @@ Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 ## Software Compatibility
 As of now, works with Mojave and above.
 
-OC DSDT folder will work but without battery monitoring and Fn Keys.
-
 ## Everything that works perfectly at the moment
 Intel Wi-Fi (HeliPort)  
 Bluetooth  
