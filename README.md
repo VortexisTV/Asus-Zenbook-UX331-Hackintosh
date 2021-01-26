@@ -20,7 +20,7 @@ OpenCore EFI might work with Zenbook models under UX333, but it's **not recommen
 Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 
 ## Software Compatibility
-As of **January 5, 2021**, it works with Mojave and above. Currently updated to `OpenCore 0.6.5`.
+As of **January 26, 2021**, it works with Mojave and above. Currently updated to `OpenCore 0.6.5`.
 
 ## Everything that works perfectly at the moment
 | Functions                 | Description                                                     |
@@ -36,7 +36,7 @@ As of **January 5, 2021**, it works with Mojave and above. Currently updated to 
 | Keyboard     | `VoodooPS2Controller.kext`  |
 | Touchpad     | `VoodooI2C.kext`, `VoodooI2CHID.kext` and `SSDT-GPIO` enable the ELAN1200 touchpad. There is a bug where touchpad will sometimes stop working and work after a few minutes |
 | Android Tethering     | `HoRNDIS.kext` works with no issues. |
-| AirPlay     | **Doesn't work on Big Sur**  |
+| AirPlay     | Works with no issues  |
 
 - Apple Services  
 - Sleep
