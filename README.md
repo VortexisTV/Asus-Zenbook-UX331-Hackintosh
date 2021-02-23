@@ -25,7 +25,7 @@ As of **January 26, 2021**, it works with Mojave and above. Currently updated to
 ## Everything that works perfectly at the moment
 | Functions                 | Description                                                     |
 | ----------- | ----------------------------|
-| Intel Wi-Fi            | `itlwm.kext` works well, but [HeliPort](https://github.com/OpenIntelWireless/HeliPort) is required to run. |
+| Intel Wi-Fi            | `Airportitlwm.kext` works well, but will give you at least a 30 MBit speed limit. |
 | Bluetooth    | `IntelBluetoothFirmware.kext` is the BT driver added. |
 | Sound | `alcid=21` layout ID is the only one that seems to work. Internal mic works. Speakers may not sound properly.  |
 | Battery Monitoring | `SSDT-USBX` needed for monitoring battery power for Coffee Lake laptops. |
@@ -38,6 +38,7 @@ As of **January 26, 2021**, it works with Mojave and above. Currently updated to
 | Android Tethering     | `HoRNDIS.kext` works with no issues. |
 | AirPlay     | Works with no issues  |
 
+- Touchscreen (sometimes)
 - Apple Services  
 - Sleep
 - USB
@@ -46,7 +47,6 @@ As of **January 26, 2021**, it works with Mojave and above. Currently updated to
 - Ethernet  
 - HDMI  
 - Webcam
-- Touchscreen
 - Sidecar
 
 ## Not Tested yet
