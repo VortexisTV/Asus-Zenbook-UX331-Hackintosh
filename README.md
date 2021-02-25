@@ -22,6 +22,10 @@ Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 ## Software Compatibility
 As of **January 26, 2021**, it works with Mojave and above. Currently updated to `OpenCore 0.6.5`.
 
+## Issues
+1. Speakers may sound abit distorted
+2. The battery may not charge all the way when booted to Mac OS.
+
 ## Everything that works perfectly at the moment
 | Functions                 | Description                                                     |
 | ----------- | ----------------------------|
