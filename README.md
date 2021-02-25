@@ -25,8 +25,8 @@ As of **January 26, 2021**, it works with Mojave and above. Currently updated to
 ## Issues
 1. Speakers may sound abit distorted
 2. The battery may not charge all the way when booted to Mac OS. 
-- It happens to charge up to only 83%. 
-- This can be solved by letting it charge all the way while leaving it turned off.
+   - It happens to charge up to only 83%.
+     - This can be solved by letting it charge all the way while leaving it turned off.
 
 ## Everything that works perfectly at the moment
 | Functions                 | Description                                                     |
