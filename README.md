@@ -20,27 +20,28 @@ OpenCore EFI might work with Zenbook models under UX333, but it's **not recommen
 Specifically geared towards Zenbooks with Coffee Lake laptop processors.
 
 ## Software Compatibility
-As of **January 26, 2021**, it works with Mojave and above. Currently updated to `OpenCore 0.6.5`.
+As of **February 24, 2021**, it works with Mojave and above. Currently updated to `OpenCore 0.6.5`.
 
 ## Issues
 1. Speakers may sound abit distorted
 2. The battery may not charge all the way when booted to Mac OS. 
    - It happens to charge up to only 83%.
      - This can be solved by letting it charge all the way while leaving it turned off.
+3. There is a bug where touchpad will sometimes stop working and work after a few minutes
 
 ## Everything that works perfectly at the moment
 | Functions                 | Description                                                     |
 | ----------- | ----------------------------|
 | Intel Wi-Fi            | `Airportitlwm.kext` works well, but will give you at least a 30 MBit speed limit. |
 | Bluetooth    | `IntelBluetoothFirmware.kext` is the BT driver added. |
-| Sound | `alcid=21` layout ID is the only one that seems to work. Internal mic works. Speakers may not sound properly.  |
+| Sound | `alcid=21` layout ID is the only one that seems to work. Internal mic works.  |
 | Battery Monitoring | `SSDT-USBX` needed for monitoring battery power for Coffee Lake laptops. |
 | Screen Backlight     | `SSDT-PNLF-CFL` fixed backlight control support on Coffee Lake. `BrightnessKeys.kext` for tuning on the screen brightness using keyboard. |
 | Fn Keys, Backlit Keyboard     | `AsusSMC` patches in `DSDT` enabled them.  |
-| Graphics Acceleration     | `VoodooTSCSync` is required for Coffee Lake. Acceleration works well  |
+| Graphics Acceleration     | `VoodooTSCSync` is required for Coffee Lake.  |
 | Power Management     | `SSDT-PLUG` manages CPU power.   |
 | Keyboard     | `VoodooPS2Controller.kext`  |
-| Touchpad     | `VoodooI2C.kext`, `VoodooI2CHID.kext` and `SSDT-GPIO` enable the ELAN1200 touchpad. There is a bug where touchpad will sometimes stop working and work after a few minutes |
+| Touchpad     | `VoodooI2C.kext`, `VoodooI2CHID.kext` and `SSDT-GPIO` enable the ELAN1200 touchpad. |
 | Android Tethering     | `HoRNDIS.kext` works with no issues. |
 | AirPlay     | Works with no issues  |
 
